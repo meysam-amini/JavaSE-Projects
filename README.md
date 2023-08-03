@@ -29,6 +29,6 @@ Desktop Time Table Generation App for creating school or college timetables. The
 
 ## Chat Application With Socket
 Client / Server secure chat application able to switch on UDP / TCP, with AES encryption and Deffie-Hellman
-key exchange protocol with RSA signcription.
+key exchange protocol with RSA signcription. U can test the client & server by running jars inside the SecureChat directory.
 
 
