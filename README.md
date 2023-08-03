@@ -1,5 +1,5 @@
 # JavaSE-Projects
-I created this projects when I was new to Java, so their codes might not be so clean and well-structured :)
+I created these projects when I was new to Java, so their codes might not be so clean and well-structured :)
 
 
 ## Maze
