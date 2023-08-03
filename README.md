@@ -2,7 +2,7 @@
 I created this projects when I was new to Java, so their codes might not be so clean and well-structured :)
 
 
-##Maze
+## Maze
 A desktop app for solving a maze with A* algorithm. The size of the map is customizable.
 ![maze](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/8b3eae28-bab0-419f-bf1d-a93ff1343b04)
 
@@ -10,7 +10,7 @@ A desktop app for solving a maze with A* algorithm. The size of the map is custo
 ![8queens](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/8908e610-55af-4ad6-b2a5-12c8f48c2a44)
 
 
-##Paint
+## Paint
 Simple Paint desktop app based on OOP concepts
 ![paint](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/af26f3f9-e4ca-413a-a900-5b304f87c055)
 
