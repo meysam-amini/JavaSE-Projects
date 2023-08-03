@@ -21,7 +21,7 @@ Simple Paint desktop app based on OOP concepts
 
 ## Calendar
 Advanced persian Calendar desktop app with reminders, notes and alarms. Is able to change time-zone and give muslims pray times according to different time zones. All data is saving on txt files, so for running the calendar application, u should unzip 'Calendar files.zip' file into a directory and set the parent folder path in "main" class in "FILES_ADDRESS" field.
-
+<br>
 ![calendar](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/27d3351b-9fb1-4ca1-bf9b-3a31c01304b9)
 
 
