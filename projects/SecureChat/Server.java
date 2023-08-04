@@ -52,9 +52,7 @@ public class Server extends JFrame {
 
 	private static JTextArea ciphermsgArea = new JTextArea();
 	private JButton start = new JButton();
-	private JTextField address = new JTextField();
 	private JTextField clientport = new JTextField();
-	private JButton addressLabel = new JButton("Address:");
 	private JButton portLabel = new JButton("Port :");
 	private static JRadioButton isUdp = new JRadioButton("UDP");
 	private static JRadioButton isTcp = new JRadioButton("TCP");
@@ -102,8 +100,6 @@ public class Server extends JFrame {
 		this.setLayout(BaseLayout);
 
 		c.fill = GridBagConstraints.HORIZONTAL;
-
-		// address :
 
 		// port:
 		c.gridx = 0;
