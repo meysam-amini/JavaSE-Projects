@@ -33,9 +33,10 @@ Persian Desktop Time Table Generation App for creating school or college timetab
 
 
 ## Secure Chat Application With Socket
-![chat](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/c722c27e-5ffa-4759-9a19-dbf9bcd2c601)
-
 Client / Server secure chat application able to switch on UDP / TCP, with AES encryption and Deffie-Hellman
 key exchange protocol with RSA signcription. U can test the client & server by running jars inside the SecureChat directory.
+
+![chat](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/c722c27e-5ffa-4759-9a19-dbf9bcd2c601)
+
 
 
