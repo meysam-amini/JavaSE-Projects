@@ -32,7 +32,7 @@ Persian Desktop Time Table Generation App for creating school or college timetab
 ![timetable](https://file.io/LZIropfHujdk)
 
 
-## Chat Application With Socket
+## Secure Chat Application With Socket
 ![chat](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/c722c27e-5ffa-4759-9a19-dbf9bcd2c601)
 
 Client / Server secure chat application able to switch on UDP / TCP, with AES encryption and Deffie-Hellman
