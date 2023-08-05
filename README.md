@@ -29,7 +29,7 @@ Advanced persian Calendar desktop app with reminders, notes and alarms. Is able 
 ## TimeTable Generator
 Persian Desktop Time Table Generation App for creating school or college timetables. The data is stored on postgres and for running it u should add postgresql driver to classpath. The dao layer is written with pure jdbc.
 
-![timetable](https://file.io/LZIropfHujdk)
+![simplescreenrecorder-2023-08-05_16 49 24](https://github.com/meysam-amini/JavaSE-Projects/assets/59673699/79e749b7-1878-4604-9e98-5ae2bef99536)
 
 
 ## Secure Chat Application With Socket
